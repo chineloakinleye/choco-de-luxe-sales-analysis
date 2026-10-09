@@ -62,9 +62,10 @@ The analysis explores regional sales performance, channel effectiveness, salespe
 The project translates sales data into actionable insights to help identify profitable products, evaluate channel performance, improve sales productivity, and guide marketing and growth strategies.
 
 ## 📁 Project Files
+## 📁 Project Files
 
-- `choco.png` — Tableau dashboard screenshot
-- `CHOCO DE LUXE PRESENTATION.pptm` — Full project presentation, including the analysis and recommendations
+- 📊 **Tableau Dashboard:** [View Dashboard Image](choco.png)
+- 📑 **Full Project Presentation:** [View or Download CHOCO DE LUXE PRESENTATION.pptm](CHOCO%20DE%20LUXE%20PRESENTATION.pptm)
 
 ## 👩‍💻 Project Author
 
